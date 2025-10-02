@@ -4,57 +4,14 @@
 
 ## Below are examples of Windows 11 running on GitHub Codespaces:
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/c7cc3c3e-c8d0-471a-9ed9-7df78a6c61a0" /> <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/da41762f-cfc0-401e-a9b3-673c396e74d4" /> <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/e3fe05c7-e9ef-4244-b645-ffb220dc1eaa" /> <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/6598f8c8-fd1c-4d36-88b6-426ac0ff114c" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c7cc3c3e-c8d0-471a-9ed9-7df78a6c61a0" /> <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/da41762f-cfc0-401e-a9b3-673c396e74d4" /> <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/e3fe05c7-e9ef-4244-b645-ffb220dc1eaa" /> <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/6598f8c8-fd1c-4d36-88b6-426ac0ff114c" />
 
 
 ## Directions:
 # YOU MUST LOG IN TO YOUR GITHUB ACCOUNT TO PROCEED.
 # Copyright@2025 ANDREW_SHIN
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=Gamer-friend/windows-11-new-2.0&machine=standardLinux32gb)
-
-#### Click on the button above and set the code space at the MAX Machine type. When you click the link, you will see something like:
-<img width="1359" height="601" alt="Screenshot 2025-10-01 7 29 28 PM" src="https://github.com/user-attachments/assets/09197b0c-d85f-4cfa-b404-59b4fc270fcc" />
-
-#### Now, At the bottom, where it says "Machine type", Change "2-core" to "16-core". After you changed the Machine type, it should look something like this now:
-<img width="1359" height="601" alt="Screenshot 2025-10-01 7 28 15 PM" src="https://github.com/user-attachments/assets/d3197482-7af8-4e53-8324-360b7f619445" />
-
-#### Now you are ready! Click the green button named "Create Codespace". It will open a Codespace URL, and you will see a "Setting up Codespace" Sign. When it loads, you should see something like: 
-<img width="1365" height="736" alt="Screenshot 2025-10-01 7 34 28 PM" src="https://github.com/user-attachments/assets/f6dfb2f1-0a75-4882-83a3-21175bfdf08a" />
-
-#### Wait for the "Setting up remote connection: Building codespace..." window to close. This Process will take 5~10 minutes. Wait until the terminal loads; (It should look like this: 
-<img width="1365" height="736" alt="Screenshot 2025-10-01 7 39 45 PM" src="https://github.com/user-attachments/assets/3d428a4f-ad63-4d21-a4c5-1ce7c19bd737" /> )
-
-#### [Remember, This is an EXAMPLE.] Then Click the "+" sign on the terminal, located at 
-<img width="1365" height="736" alt="Screenshot 2025-10-01 7 42 05 PM" src="https://github.com/user-attachments/assets/f0ffe8a9-7f99-4b67-9bc7-aeba8a5a3bd4" /> 
-
-#### Once you did that, it should now look like this:
-<img width="1365" height="739" alt="Screenshot 2025-10-01 7 42 46 PM" src="https://github.com/user-attachments/assets/1af2b612-a34a-4133-8ce0-c953e69a07ca" /> 
-
-#### From there, type in the command: ```start```. It should start making Windows, spewing out a buncha of code. After everything is settled, it looks like 
-<img width="1365" height="739" alt="Screenshot 2025-10-01 7 44 50 PM" src="https://github.com/user-attachments/assets/8dd861f6-c763-45c3-a2c2-9074c9302c49" /> 
-
-#### Then Click on the "Ports" Tab: 
-<img width="1365" height="739" alt="Screenshot 2025-10-01 7 45 39 PM" src="https://github.com/user-attachments/assets/92e6b041-61b5-4ed4-b52f-5355c0c40886" /> 
-
-#### It should look like: 
-<img width="1365" height="739" alt="Screenshot 2025-10-01 7 46 26 PM" src="https://github.com/user-attachments/assets/4fa6c0ee-b4aa-4ca2-b370-78fe158dfb9a" /> 
-
-#### Now at the 4th port, the port name should be "QEMU (HTTP/HTTP..." Hover above the "Running process" area of the port and RIGHT CLICK. It should look like: 
-<img width="1365" height="739" alt="image" src="https://github.com/user-attachments/assets/75f097e0-bd29-495d-8ddb-a3788f46ca72" /> 
-
-#### Then move your mouse to hover above the "Port Visibility" Section, which looks like: 
-<img width="1365" height="739" alt="Screenshot 2025-10-01 7 49 11 PM" src="https://github.com/user-attachments/assets/5ab4d94a-5729-4838-be68-8bfd759af728" /> 
-
-#### And Select "Public". It should re-add it and it should look like this now: 
-<img width="1365" height="739" alt="Screenshot 2025-10-01 7 49 59 PM" src="https://github.com/user-attachments/assets/9d49b7b1-d11d-4b23-8a44-07a5e581c5ee" /> 
-
-#### And Finally, Click the "🌐" Icon on the port: 
-<img width="1365" height="739" alt="Screenshot 2025-10-01 7 50 58 PM" src="https://github.com/user-attachments/assets/97bf4bdf-598e-4692-a9ee-d6f525577e4b" /> 
-
-#### And Boom, There We go, You now have a Windows 11 OS. Wait for Everything to install, and when you are at the 
-<img width="1365" height="742" alt="Screenshot 2025-10-01 7 52 19 PM" src="https://github.com/user-attachments/assets/1c26e353-81d2-4783-9eed-198a57b53f4e" /> 
-
-# Move On To the Next topic.
+#### Set the "Machine type" to 4-cores and click "Creat Codespace": 
 
 ## INSTALLING
 #### From 
