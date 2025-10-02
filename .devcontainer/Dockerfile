@@ -21,14 +21,11 @@ RUN apt-get update && \
 ARG USERNAME=vscode
 RUN usermod -aG kvm $USERNAME
 
-# Optional: Add your Windows disk image or download script
-# RUN wget -O /workspace/windows/disk.vhdx <your-image-url>
-
 # Set working directory
 WORKDIR /workspace
 
-# Copy launch script and make it executable
-COPY ../start /usr/local/bin/start
+# Copy start script from .devcontainer folder
+COPY start /usr/local/bin/start
 RUN chmod +x /usr/local/bin/start
 
 # Display message on Codespace creation
