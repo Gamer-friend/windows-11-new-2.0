@@ -10,8 +10,7 @@
 ## Directions:
 # YOU MUST LOG IN TO YOUR GITHUB ACCOUNT TO PROCEED.
 # Copyright@2025 ANDREW_SHIN
-
-[![Start a Windows 11 Container - CLICK HERE.](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=Gamer-friend/windows-11-new&machine=standardLinux32gb)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=Gamer-friend/windows-11-new-2.0&machine=standardLinux32gb)
 
 #### Click on the button above and set the code space at the MAX Machine type. When you click the link, you will see something like:
 <img width="1359" height="601" alt="Screenshot 2025-10-01 7 29 28 PM" src="https://github.com/user-attachments/assets/09197b0c-d85f-4cfa-b404-59b4fc270fcc" />
