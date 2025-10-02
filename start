@@ -1,0 +1,8 @@
+#!/bin/bash
+set -e
+
+echo "✨ Welcome to Windows-in-Docker Codespaces!"
+echo "🧠 Preparing environment and launching VM..."
+
+# Run the main launch script
+./scripts/launch.sh
